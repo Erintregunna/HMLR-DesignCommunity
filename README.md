@@ -1,14 +1,22 @@
 ## Welcome to HMLR Design Community 
 
-You can use the [editor on GitHub](https://github.com/Erintregunna/HMLR-DesignCommunity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+This guide is for x or y. 
 ### Content resources 
 
 - [Inverted pyramid](https://docs.google.com/presentation/d/17LKe9-SGrSbtYtYUzOlBsb4oor440hgi7TgYBdxvdBU/edit#slide=id.p)
 - [Plain English](https://docs.google.com/presentation/d/1RPRb6xrv5RGvj1x4zefKPe01ZZpKcOuKS2gLOWD1Hm4/edit) 
 
+
+
+
+
+
+
+
+You can use the [editor on GitHub](https://github.com/Erintregunna/HMLR-DesignCommunity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ```markdown
 Syntax highlighted code block
