@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/Erintregunna/HMLR-DesignCo
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Content resources 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Inverted pyramid] https://docs.google.com/presentation/d/17LKe9-SGrSbtYtYUzOlBsb4oor440hgi7TgYBdxvdBU/edit#slide=id.p
+
 
 ```markdown
 Syntax highlighted code block
