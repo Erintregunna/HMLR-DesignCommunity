@@ -1,14 +1,15 @@
-## Welcome to HMLR Design Community 
+## Welcome to HMLR Design Community
 
 
-This guide is for x or y. 
-### Content resources 
+This guide is for x or y.
+### Content resources
 
 - [Inverted pyramid](https://docs.google.com/presentation/d/17LKe9-SGrSbtYtYUzOlBsb4oor440hgi7TgYBdxvdBU/edit#slide=id.p)
-- [Plain English](https://docs.google.com/presentation/d/1RPRb6xrv5RGvj1x4zefKPe01ZZpKcOuKS2gLOWD1Hm4/edit) 
+- [Plain English](https://docs.google.com/presentation/d/1RPRb6xrv5RGvj1x4zefKPe01ZZpKcOuKS2gLOWD1Hm4/edit)
 
 
-
+### Git and heroku guide
+<a href="index.html">yeeeeeah</a>
 
 
 
