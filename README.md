@@ -1,4 +1,4 @@
-## Welcome to HMLR Design Community
+## Welcome to HMLR's Design Community
 
 
 This guide is for x or y.
