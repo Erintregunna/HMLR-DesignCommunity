@@ -22,3 +22,25 @@ body {
   color: blue;
   text-decoration: underline;
 }
+
+  .markdown-body hr {
+    height: .25em;
+    padding: 0;
+    margin: 24px 0;
+    background-color: #e1e4e8;
+    border: 0;
+}
+
+  hr::before, .rule::before {
+  display: table;
+  content: "";
+}
+
+  hr::after, .rule::after {
+      display: table;
+      clear: both;
+      content: "";
+}
+
+
+}
