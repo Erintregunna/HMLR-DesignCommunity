@@ -9,7 +9,7 @@ This guide is for x or y.
 
 
 ### Git and heroku guide
-<a href="/how-to-use-git-and-heroku-guide/pokedex.html">yeeeeeah</a>
+<a href="/HMLR-DesignCommunity/how-to-use-git-and-heroku-guide/pokedex.html">yeeeeeah</a>
 
 You can use the [editor on GitHub](https://github.com/Erintregunna/HMLR-DesignCommunity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
