@@ -11,10 +11,6 @@ This guide is for x or y.
 ### Git and heroku guide
 <a href="/how-to-use-git-and-heroku-guide/index.html">yeeeeeah</a>
 
-
-
-
-
 You can use the [editor on GitHub](https://github.com/Erintregunna/HMLR-DesignCommunity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
