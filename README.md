@@ -9,7 +9,7 @@ This guide is for x or y.
 
 
 ### Git and heroku guide
-<a href="index.html">yeeeeeah</a>
+<a href="/how-to-use-git-and-heroku-guide/index.html">yeeeeeah</a>
 
 
 
