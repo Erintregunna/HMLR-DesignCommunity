@@ -23,6 +23,10 @@ body {
   text-decoration: underline;
 }
 
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
   .markdown-body hr {
     height: .25em;
     padding: 0;
