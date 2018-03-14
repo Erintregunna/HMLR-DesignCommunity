@@ -31,23 +31,14 @@ h1, h2, h3 {
    font-family: "Times New Roman", Times, serif;
 }
 
-  .markdown-body hr {
-    height: .25em;
-    padding: 0;
-    margin: 24px 0;
-    background-color: #e1e4e8;
-    border: 0;
-}
+@media screen and (min-width:720px) => Phablet{
 
-  hr::before, .rule::before {
-  display: table;
-  content: "";
 }
+@media screen and (min-width:768px) => Tablet{
 
-  hr::after, .rule::after {
-      display: table;
-      clear: both;
-      content: "";
+}
+@media screen and (min-width:1024px) => Desktop{
+  
 }
 
 
