@@ -27,6 +27,10 @@ p {
     font-family: "Times New Roman", Times, serif;
 }
 
+h1, h2, h3 {
+   font-family: "Times New Roman", Times, serif;
+}
+
   .markdown-body hr {
     height: .25em;
     padding: 0;
